@@ -3,3 +3,6 @@ node_modules
 dist
 build
 yarn-error*
+/gameFiles
+/ipfsFiles
+.env

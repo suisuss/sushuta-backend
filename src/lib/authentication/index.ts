@@ -1,0 +1,6 @@
+
+
+class Authenticator {
+
+    // constructor()
+}
